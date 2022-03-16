@@ -7,7 +7,7 @@ The model is pre-trained and adjusted to my use case through transfer learning. 
 Hardware for this project:
 
 NVIDIA Jetson Nano Dev Kit
-+ charging cable, Wi-Fi antennas, acrylic case, SD Card and cooling fan
++ charging cable, Wi-Fi antennas, acrylic case, MicroSD Card and cooling fan
 RPi Cam V2
 + case and long cable
 Keayboard and mouse
